@@ -2,10 +2,14 @@
   <p> Sou novo nesse mundo, principalmente no GitHub🐾</p>
   <p>Acabei começando a ter interesse por essas coisas por conta do discord, por ter que ler sobre os bots e configurar eles nos servidores.</p>
  
-<ul><strong> Idiomas falados:</strong> Português (Lingua materna), Inglês (intermédiario), Espanhol (Básico), Libras (Começando). </ul>
-<ul> <strong>Aprendendo atualmente:</strong> HTML, sobre o Git e GitHub e </ul>
-<ul><strong>Hobbies:</strong>Leitura, escrita, desenhar.</ul>
-<ul><strong>Idade:</strong>19 anos</ul>
+<ul><strong>✏️ Idiomas falados:</strong> Português (Lingua materna), Inglês (intermédiario), Espanhol (Básico), Libras (Começando). </ul>
+<ul> <strong>📚 Aprendendo atualmente:</strong> HTML, sobre o Git e GitHub e </ul>
+<ul><strong>☕ Hobbies: </strong>Leitura, escrita, desenhar.</ul>
+<ul><strong>⏱️ Idade:</strong>19 anos</ul>
+<ul> <strong>👨‍💻 Cargo atual:</strong> Jovem aprendiz e estudante.</ul>
+<p>🧪 Explorando....</p>
+
+
 
   ##
  
